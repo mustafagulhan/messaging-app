@@ -1,2 +1,2 @@
 # messaging-app
-devam edcek
+devam edecek
