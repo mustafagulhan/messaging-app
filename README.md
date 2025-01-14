@@ -105,12 +105,9 @@ npm start
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 Mustafa Gülhan - [GitHub](https://github.com/mustafagulhan)
 
 ## Acknowledgments
-- Special thanks to Dr. İhsan PENÇE for project supervision
+- Special thanks to Asst. Prof. Dr. İhsan PENÇE for project supervision
 - Thanks to all contributors who participated in testing and development
