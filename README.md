@@ -71,13 +71,27 @@ cd frontend
 npm install
 ```
 
-4. Configure environment variables:
-```bash
-# .env file
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-EMAIL_API_KEY=your_email_api_key
-```
+4. Environment Variables Setup:
+   * Copy `.env.example` to create a new `.env` file:
+     ```bash
+     cp .env.example .env
+     ```
+   * Update the `.env` file with your configuration:
+     ```bash
+     # MongoDB Configuration
+     MONGODB_URI=         # Your MongoDB connection string
+
+     # JWT Configuration
+     SECRET_KEY=         # Random string for JWT signing
+     ALGORITHM=      # Default: HS256
+     ACCESS_TOKEN_EXPIRE_MINUTES=  # Default: 30
+     UPLOAD_FOLDER # Default: uploads
+
+     # Email Configuration
+     BREVO_API_KEY=      # Your brevo email service API key
+     BREVO_SENDER_EMAIL=       # Sender brevo email address
+     ```
+   * Note: Never commit your actual `.env` file to version control. The `.env.example` file serves as a template.
 
 5. Start the application:
 ```bash
