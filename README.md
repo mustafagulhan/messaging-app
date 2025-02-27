@@ -1,4 +1,4 @@
-# Secure Messaging and Encrypted Cloud Storage Platform
+# Secure Messaging and Encrypted Cloud Storage Platform..
 
 A secure messaging and encrypted cloud storage platform developed using modern web technologies. This platform enables users to communicate securely and store their files in an encrypted format.
 
