@@ -104,3 +104,24 @@ cd frontend
 npm start
 ```
 
+## System Requirements
+- Python 3.9 or higher
+- Node.js 16 or higher
+- MongoDB 6.0 or higher
+
+## Security Features
+- End-to-end encryption for all messages
+- Client-side encryption for file uploads
+- Secure session management
+- Protection against common web vulnerabilities
+- Rate limiting for brute force attack prevention
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+Mustafa Gülhan - [GitHub](https://github.com/mustafagulhan)
+
+## Acknowledgments
+- Special thanks to Asst. Prof. Dr. İhsan PENÇE for project supervision.
+- Thanks to all contributors who participated in testing and development.
